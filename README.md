@@ -35,13 +35,13 @@ Turn-based gameplay with separate hangman displays for each player.
     ```
 # How to Play
 1. Single Player:
-Choose a category (e.g., "animals").
-Guess letters to find the word within 7 attempts.
+- Choose a category (e.g., "animals").
+- Guess letters to find the word within 7 attempts.
 
 3. Multiplayer:
-Choose a category.
-Players take turns guessing letters.
-The game ends when a player guesses their word or both players run out of attempts.
+- Choose a category.
+- Players take turns guessing letters.
+- The game ends when a player guesses their word or both players run out of attempts.
 
 # Contribution
 Feel free to contribute by opening issues or submitting pull requests for enhancements or bug fixes.
