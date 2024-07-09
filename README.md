@@ -11,9 +11,9 @@ Two players compete with words of the same length.
 Turn-based gameplay with separate hangman displays for each player.
 
 # Technical Details
-Language: Python\n
-Libraries: requests for API calls, random for word selection.\n
-API Used: Datamuse API for fetching words based on categories.
+- Language: Python
+- Libraries: requests for API calls, random for word selection.
+- API Used: Datamuse API for fetching words based on categories.
 
 ## Installation
 
