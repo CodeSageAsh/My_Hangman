@@ -1,7 +1,7 @@
 # My_Hangman
 Hangman Game: A Python implementation of Hangman with single-player and multiplayer modes. Fetches words from an API and includes dynamic gameplay features. Demonstrates API integration, game logic, and user interaction skills. Clone, install dependencies, and run to play!
 
-# Features
+## Features
 1. Single Player Mode:
 Fetches words from an API based on a user-selected category.
 Classic Hangman gameplay with 7 attempts to guess the word.
@@ -10,7 +10,7 @@ Classic Hangman gameplay with 7 attempts to guess the word.
 Two players compete with words of the same length.
 Turn-based gameplay with separate hangman displays for each player.
 
-# Technical Details
+## Technical Details
 - Language: Python
 - Libraries: requests for API calls, random for word selection.
 - API Used: Datamuse API for fetching words based on categories.
@@ -33,7 +33,7 @@ Turn-based gameplay with separate hangman displays for each player.
     ```sh
     python hangman.py
     ```
-# How to Play
+## How to Play
 1. Single Player:
 - Choose a category (e.g., "animals").
 - Guess letters to find the word within 7 attempts.
@@ -43,5 +43,5 @@ Turn-based gameplay with separate hangman displays for each player.
 - Players take turns guessing letters.
 - The game ends when a player guesses their word or both players run out of attempts.
 
-# Contribution
+## Contribution
 Feel free to contribute by opening issues or submitting pull requests for enhancements or bug fixes.
