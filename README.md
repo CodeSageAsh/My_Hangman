@@ -11,22 +11,28 @@ Two players compete with words of the same length.
 Turn-based gameplay with separate hangman displays for each player.
 
 # Technical Details
-Language: Python
-Libraries: requests for API calls, random for word selection.
+Language: Python\n
+Libraries: requests for API calls, random for word selection.\n
 API Used: Datamuse API for fetching words based on categories.
 
-# Installation
-1. Clone the Repository:
-git clone https://github.com/CodeSageAsh/My_Hangman.git
-cd My_Hangman
+## Installation
 
-2. Install Dependencies:
-Ensure you have Python installed, then run:
-pip install requests
-3. Run the Game:
+1. **Clone the Repository**:
+    ```sh
+    git clone https://github.com/your-username/My_Hangman.git
+    cd My_Hangman
+    ```
 
-python hangman.py
+2. **Install Dependencies**:
+    Ensure you have Python installed, then run:
+    ```sh
+    pip install requests
+    ```
 
+3. **Run the Game**:
+    ```sh
+    python hangman.py
+    ```
 # How to Play
 1. Single Player:
 Choose a category (e.g., "animals").
